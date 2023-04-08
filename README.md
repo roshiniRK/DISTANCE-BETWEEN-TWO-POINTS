@@ -9,7 +9,8 @@ Import the math function
 Assign the values as l1 and l2
 ### Step 3: 
 Substitute the values in the distance formula  
-![formula](/formula.jpg)
+![formula](https://user-images.githubusercontent.com/118956165/230726984-176becb0-743f-4754-8f61-cacbdea053af.JPG)
+
 ### Step 4:
 print the resultant distance between two points
 ### PROGRAM:
